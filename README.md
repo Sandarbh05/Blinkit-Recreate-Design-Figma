@@ -1,7 +1,7 @@
 # Blinkit Homepage Recreate UI (Figma)
 
 
-![Blinkit Homepage UI](Blinkit_Recreate/App_Assets/Designs/Home Page Recreated.png)
+![Blinkit Homepage UI](Home Page Recreated.png)
 
 
 **Note:** This project is a *Figma UI recreation only* — no code or React implementation included. It’s a visual prototype meant for design reference, study, and portfolio showcase.
